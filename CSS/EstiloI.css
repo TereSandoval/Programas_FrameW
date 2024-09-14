@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b6f0eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+h1{
+    color: #12294a;
+    font-size: 2rem;
+}
+
+li{
+    color: #4a5d9e;
+}
